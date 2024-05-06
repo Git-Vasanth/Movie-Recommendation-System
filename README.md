@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 1. Data Collection:
-•	You start by importing two datasets, `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`, which contain information about movies, including their titles, overviews, genres, keywords, cast, and crew.
+*	You start by importing two datasets, `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`, which contain information about movies, including their titles, overviews, genres, keywords, cast, and crew.
 
 2. Data Preprocessing:
 •	You merge the two datasets based on the movie titles to consolidate the relevant information into a single dataframe.
